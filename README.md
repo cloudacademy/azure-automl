@@ -2,7 +2,7 @@
 This file contains data for the demos in Cloud Academy's _Automating AI Model Creation With Azure Machine Learning_ lesson.  
 
 ### Training a Model
-Data source: https://aka.ms/bike-rentals
+Data source: https://raw.githubusercontent.com/cloudacademy/azure-automl/refs/heads/main/bike-rentals.csv
 
 ### Deploying a Model
 ```
